@@ -1,0 +1,6 @@
+{
+  "name": "Embassy Attestation India",
+  "description": "Get fast and reliable Embassy Attestation, MEA Apostille, Certificate Attestation and Document Legalization services in India. Educational, Personal & Commercial Documents. PAN India Support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
